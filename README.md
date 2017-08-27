@@ -2,13 +2,11 @@
 <h1>Build a Tribute Page Project</h1>
 
 <p>
-    <a href="https://scie4fun.github.io/tribute-page-project/"
-       onclick="window.open(this.href,'_blank');return false;">
+    <a href="https://scie4fun.github.io/tribute-page-project/">
     Deployed</a> at GitHub Pages
 </p>
 <p>
-    <a href="https://www.freecodecamp.org/challenges/build-a-tribute-page"
-       onclick="window.open(this.href,'_blank');return false;">
+    <a href="https://www.freecodecamp.org/challenges/build-a-tribute-page">
         Project requirements
     </a>
 </p>
