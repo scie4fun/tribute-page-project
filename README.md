@@ -2,11 +2,15 @@
 <h1>Build a Tribute Page Project</h1>
 
 <p>
-    <a href="https://scie4fun.github.io/tribute-page-project/">
+    <a href="https://scie4fun.github.io/tribute-page-project/"
+       target="blank"
+    />
     Deployed</a> at GitHub Pages
 </p>
 <p>
-    <a href="https://www.freecodecamp.org/challenges/build-a-tribute-page">
+    <a href="https://www.freecodecamp.org/challenges/build-a-tribute-page"
+       target="blank"
+    />
         Project requirements
     </a>
 </p>
